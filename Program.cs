@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+/*
+ * 
+ * 
+ * 
+ * *  WARNING: THIS FILE IS A PLACEHOLDER AND IS NOT INTENDED FOR COMPILATION.  * *
+ * * THIS FILE IS MEANT TO MAKE IT EAISER TO EDIT PS SCRIPTS AND USE GIT IN IDE * *
+ * 
+ * 
+ * 
+ */
+
 Console.WriteLine("Hello, World!");
