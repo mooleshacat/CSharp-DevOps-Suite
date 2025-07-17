@@ -33,6 +33,10 @@ Back to work, I have refactoring to do...
 
 "For a game mod (MixerThreholdMod) focused on literally modifying two values to improve player gameplay experiences, GitHub Copilot somehow determined that constants for Lithuanian, Estonian, and 25+ other world cultures were essential project requirements. This suggests a fundamental disconnect between instruction comprehension and execution logic."
 
+Do not trust Github copilot to not cheat you by pulling constants out from system files and localizing them into my constants folder just to meet a target for number of constants to refactor, and then corrupting the files with Byte-Order-Markers (BOM)
+
+IDE copilot (in VS2022) is the actual genius and we make an unbeatable team, but is limited in it's capabilities to directly modify code.
+
 # END OF NON-COMPREHENSIVE DOCUMENTATION
 
 YES COPILOT GENERATED THE BORING SCRIPTS FOR ME AND I INSTRUCTED AND CONSTRAINED IT.
