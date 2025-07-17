@@ -1,7 +1,7 @@
 # CSharp-DevOps-Suite
 
-#### WARNING: There is no current development branch and I have no time to set it up now
 #### WARNING: ENSURE TO KEEP A WORKING COPY IN CASE UPDATES BREAK FUNCTIONALITY!
+#### WARNING: There is no current development branch and I have no time to set it up now
 
 #### sln/csproj/cs files are just to make it easy to edit and manage git operations within the same IDE window
 
