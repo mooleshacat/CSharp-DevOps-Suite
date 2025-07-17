@@ -11,9 +11,23 @@
 - Reports can be automated via task I believe
 - Nice menu for easy interaction, audit, and report generation
 
+## How does it work?
+Well I don't have the time to explain in detail. Simple version is to clone this repository, 
+and copy the contents into your C# project root directory like so:
+- My_Super_Awesome_Project/
+  - Scripts/
+  - DevOps-ScriptLauncher.bat
+ 
+Installation is that simple. Now run the batch script - which is important as it sets the execution
+policy enabling powershell script usage (required)
+
+Figure the menu out on your own, it is self explanatory. Suggest features on issue ticket page.
+
+# END OF NON-COMPREHENSIVE DOCUMENTATION
+
 YES COPILOT GENERATED THE BORING SCRIPTS FOR ME AND I INSTRUCTED AND CONSTRAINED IT.
 GET OFF MY BACK I DONT KNOW POWERSHELL LOOK AT THIS BEAUTIFUL WORK!
 
 Copilot / Anthropic Claude Sonnet 4 model is a great developer and teacher :)
 
-#### Readme & release is coming eventually :P
+### Readme & release is coming eventually :P
