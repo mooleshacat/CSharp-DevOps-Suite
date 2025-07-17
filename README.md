@@ -1,7 +1,5 @@
 # CSharp-DevOps-Suite
 
-WORKING well enough you could use it, needs issues hammered out, no time right now
-
 #### WARNING: There is no current development branch and I have no time to set it up now
 #### WARNING: ENSURE TO KEEP A WORKING COPY IN CASE UPDATES BREAK FUNCTIONALITY!
 
@@ -13,6 +11,8 @@ WORKING well enough you could use it, needs issues hammered out, no time right n
 - You can then drill down to get more detail and resolve issues found within the reports.
 - Reports can be automated via task I believe
 - Nice menu for easy interaction, audit, and report generation
+
+WORKING well enough you could use it, needs issues hammered out, no time right now
 
 ## How does it work?
 Well I don't have the time to explain in detail. Simple version is to clone this repository, 
