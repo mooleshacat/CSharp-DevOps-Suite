@@ -21,9 +21,17 @@ and copy the contents into your C# project root directory like so:
   - DevOps-ScriptLauncher.bat
  
 Installation is that simple. Now run the batch script - which is important as it sets the execution
-policy enabling powershell script usage (required)
+policy enabling powershell script usage (required) - Keep in mind using this method will require you
+to manually update / overwrite the existing scripts when there is an update in the same way.
+
+If troubles, there may (or may not) be a need to run the batch as root. If this makes you nervous,
+there is no need to be. The source is open and you can audit it for any suspicious activities.
 
 Figure the menu out on your own, it is self explanatory. Suggest features on issue ticket page.
+
+Back to work, I have refactoring to do...
+
+"For a game mod (MixerThreholdMod) focused on literally modifying two values to improve player gameplay experiences, GitHub Copilot somehow determined that constants for Lithuanian, Estonian, and 25+ other world cultures were essential project requirements. This suggests a fundamental disconnect between instruction comprehension and execution logic."
 
 # END OF NON-COMPREHENSIVE DOCUMENTATION
 
