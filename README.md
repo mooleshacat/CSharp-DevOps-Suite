@@ -6,7 +6,7 @@
 
 - This is a comprehensive test suite which performs many operations and generates reports of it's findings
 - The special tool "Generate-Comprehensive-Report.ps1 will give a high level overview of project health
-- There is also another special tool, Generate-CorruptionReport.ps1 run it and see how it looks :)
+- There is also another special tool, Generate-Corruption-Report.ps1 run it and see how it looks :)
 - You can then drill down to get more detail and resolve issues found within the reports.
 - Reports can be automated via task I believe
 - Nice menu for easy interaction, audit, and report generation
