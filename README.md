@@ -2,6 +2,9 @@
 
 #### WORKING well enough you could use it, needs issues hammered out, no time right now
 
+#### WARNING: There is no current development branch and I have no time to set it up now
+#### WARNING: ENSURE TO KEEP A WORKING COPY IN CASE UPDATES BREAK FUNCTIONALITY!
+
 #### sln/csproj/cs files are just to make it easy to edit and manage git operations within the same IDE window
 
 - This is a comprehensive test suite which performs many operations and generates reports of it's findings
