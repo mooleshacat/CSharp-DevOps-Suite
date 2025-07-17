@@ -1,6 +1,6 @@
 # CSharp-DevOps-Suite
 
-#### WORKING well enough you could use it, needs issues hammered out, no time right now
+WORKING well enough you could use it, needs issues hammered out, no time right now
 
 #### WARNING: There is no current development branch and I have no time to set it up now
 #### WARNING: ENSURE TO KEEP A WORKING COPY IN CASE UPDATES BREAK FUNCTIONALITY!
