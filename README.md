@@ -15,6 +15,8 @@
 Well I don't have the time to explain in detail. Simple version is to clone this repository, 
 and copy the contents into your C# project root directory like so:
 - My_Super_Awesome_Project/
+  - My_Super_Awesome_Project.sln
+  - My_Super_Awesome_Project.csproj
   - Scripts/
   - DevOps-ScriptLauncher.bat
  
